@@ -5,6 +5,15 @@
 ## Screencast
 
 
+## Requirements
+
+In order to run this tutorial, you need to install the following requirements:
+
+### Compass
+
+```
+$ gem install compass
+```
 
 ## Contributing
 
