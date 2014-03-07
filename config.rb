@@ -17,7 +17,7 @@ javascripts_dir = "js"
 # line_comments = false
 
 # Other paths on your system from which to import sass files.
-add_import_path "bower_components"
+# add_import_path "bower_components"
 
 # If you prefer the indented syntax, you might want to regenerate this
 # project again passing --syntax sass, or you can uncomment this:
