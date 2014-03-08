@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "name": "tutorial-getting-started-with-spriteowl",
+  "description": "Tutorial project for the Getting started with Spriteowl screencast!",
+  "authors": [
+    "franklin <franklin@owl-stars.com>"
+  ],
+  "dependencies": {
+    "cssowl": "~1.2"
+  }
+}
